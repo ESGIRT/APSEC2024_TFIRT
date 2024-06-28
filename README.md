@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ESGIRT/ESEM2024-TransformerIRT/blob/main/Image/logo.png" alt="TAIRT" width="50%" />
+<img src="https://github.com/ESGIRT/APSEC2024_TFIRT/blob/main/Image/logo.png" alt="TAIRT" width="50%" />
 </p>
 
 
@@ -15,5 +15,5 @@ The replication package contains the datasets, code, and models used in our stud
 ## Overview
 The following diagram summarizes our work.
 <p align="center">
-<img src="https://github.com/ESGIRT/ESEM2024-TransformerIRT/blob/main/Image/overview.png" alt="TAIRT" width="80%" />
+<img src="https://github.com/ESGIRT/APSEC2024_TFIRT/blob/main/Image/overview.png" alt="TAIRT" width="80%" />
 </p>
